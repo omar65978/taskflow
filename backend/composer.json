@@ -1,11 +1,11 @@
 {
     "name": "taskflow/api",
     "type": "project",
-    "description": "TaskFlow — REST API for a task & project manager (Laravel 11 + Sanctum).",
+    "description": "TaskFlow — REST API for a task & project manager (Laravel 12 + Sanctum).",
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^12.0",
         "laravel/sanctum": "^4.0"
     },
     "require-dev": {
